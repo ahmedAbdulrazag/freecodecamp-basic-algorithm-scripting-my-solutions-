@@ -1,0 +1,1 @@
+# freecodecamp-basic-algorithm-scripting-my-solutions-
