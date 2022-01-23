@@ -9,8 +9,8 @@ const titleCase = str => {
 
     for(const i in strArr) {
         const firstLetter = strArr[i].slice(0, 1).toUpperCase()
-        const restOfTheSentence = strArr[i].slice(1)
-        newStrArr.push(firstLetter + restOfTheSentence)
+        const restOfTheWord = strArr[i].slice(1)
+        newStrArr.push(firstLetter + restOfTheWord)
     }
 
     
